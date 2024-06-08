@@ -20,3 +20,5 @@ note_seq
 tensorflow>=2.0
 schema
 patool
+scikit-learn>=1.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
